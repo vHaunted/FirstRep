@@ -2,3 +2,10 @@
 *.a
 !lib.a
 build/
+.vscode/
+/dist/
+*.out
+*.o
+.env
+config.yml
+readme.txt
